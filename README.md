@@ -1,2 +1,3 @@
-Oliver-et.-al-2021-Ohio-River-Catfish
+The code corresponds to the analysis in Oliver et al. 2021 : DOI: 10.1002/nafm.10595.
+
 The goal of the study was to evaluate the potential effects of these regulations using the limited data for baseline demographic parameters. Bayesian modeling was used to estimate growth and mortality because of the ability to estimate derived functions of parameters and associated uncertainty (as credible intervals). Yield-per-recruit (YPR) modeling was used to estimate and evaluate the fishing mortality rates (F) that would induce growth overfishing (FMAX) and the yield at FMAX (YPRMAX) for three management scenarios: no harvest restrictions (former regulation), a 33.0-cm minimum length limit, and the enacted permissive slot limits. 
